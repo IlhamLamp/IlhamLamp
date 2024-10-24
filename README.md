@@ -3,7 +3,8 @@
 As a software developer 💻, I'm driven by a passion for technology and a constant desire to learn and grow 💫. I'm eager to collaborate with others and contribute to innovative projects 🤝.
 
 > *keep going, keep growing!* 🌱
->  
+>
+> 
 
 ## 🧰 Tech Stack
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,nextjs,webpack,vite,bootstrap,tailwindcss,vercel,netlify,heroku,figma,nodejs,express,nest,sequelize,prisma,go,python,php,mysql,postgresql,mongodb,redis,firebase,postman,rabbitmq,docker,git,github,aws,selenium,jenkins,prometheus,grafana,bash,linux)
