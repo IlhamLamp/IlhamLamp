@@ -12,9 +12,9 @@ As a software developer 💻, I'm driven by a passion for technology and a const
 
 ![Strikes](https://github-readme-streak-stats.herokuapp.com/?user=IlhamLamp&theme=ayu-mirage&hide_border=true)
 
-## 🌠 Top Langs
+[//]: # ## 🌠 Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlhamLamp&layout=compact)](https://github.com/IlhamLamp/github-readme-stats)
+[\\]: # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlhamLamp&layout=compact)](https://github.com/IlhamLamp/github-readme-stats)
 
 ## 🤝 Social
 
