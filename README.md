@@ -8,13 +8,15 @@ As a software developer 💻, I'm driven by a passion for technology and a const
 
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,nextjs,webpack,vite,bootstrap,tailwindcss,vercel,netlify,heroku,figma,nodejs,express,nest,sequelize,prisma,go,python,php,mysql,postgresql,mongodb,redis,firebase,postman,rabbitmq,docker,git,github,aws,selenium,jenkins,prometheus,grafana,bash,linux)
 
+<!--
 ## 🏹 Strikes
 
 ![Strikes](https://github-readme-streak-stats.herokuapp.com/?user=IlhamLamp&theme=ayu-mirage&hide_border=true)
+ -->
 
-[//]: # ## 🌠 Top Langs
+## 🌠 Top Langs
 
-[\\]: # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlhamLamp&layout=compact)](https://github.com/IlhamLamp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlhamLamp&layout=compact)](https://github.com/IlhamLamp/github-readme-stats)
 
 ## 🤝 Social
 
