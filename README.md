@@ -23,6 +23,8 @@ As a DevOps Engineer 💻, I'm driven by a passion for technology and a constant
 
 ## 🌠 Top Langs
 
+<div align="center">
+
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img 
     src="https://github-readme-stats-eight-sand-59.vercel.app/api?username=IlhamLamp&show_icons=true" 
@@ -30,11 +32,11 @@ As a DevOps Engineer 💻, I'm driven by a passion for technology and a constant
   />
   <img 
     src="https://github-readme-stats-eight-sand-59.vercel.app/api/top-langs/?username=IlhamLamp&layout=compact" 
-    style="width: 35%; min-width: 300px;"
+    style="width: 40%; min-width: 300px;"
   />
 </div>
 
----
+## </div>
 
 ## 🤝 Social
 
