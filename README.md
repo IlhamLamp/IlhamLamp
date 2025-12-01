@@ -17,11 +17,11 @@ As a DevOps Engineer 💻, I'm driven by a passion for technology and a constant
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img 
     src="https://github-readme-stats-eight-sand-59.vercel.app/api?username=IlhamLamp&show_icons=true" 
-    style="width: 48%; height: 100px; object-fit: cover;"
+    style="width: 64%;"
   />
   <img 
     src="https://github-readme-stats-eight-sand-59.vercel.app/api/top-langs/?username=IlhamLamp&layout=compact" 
-    style="width: 48%; height: 100px; object-fit: cover;"
+    style="width: 48%;"
   />
 </div>
 
