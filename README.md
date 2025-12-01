@@ -10,7 +10,13 @@ As a DevOps Engineer 💻, I'm driven by a passion for technology and a constant
 
 ## 🏹 Strikes
 
-![Strikes](https://github-readme-streak-stats.herokuapp.com/?user=IlhamLamp&theme=ayu-mirage&hide_border=true)
+<!-- ![Strikes](https://github-readme-streak-stats.herokuapp.com/?user=IlhamLamp&theme=ayu-mirage&hide_border=true) -->
+<div style="display: flex; justify-content: center; width: 100%;">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=IlhamLamp&theme=ayu-mirage&hide_border=true" 
+    style="width: 100%; max-width: 700px;"
+  />
+</div>
 
 ## 🌠 Top Langs
 
