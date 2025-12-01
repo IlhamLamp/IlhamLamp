@@ -1,6 +1,6 @@
 # Hello <img src="https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif" width="40px"> I'm Ilham ☕
 
-As a software developer 💻, I'm driven by a passion for technology and a constant desire to learn and grow 💫. I'm eager to collaborate with others and contribute to innovative projects 🤝.
+As a DevOps Engineer 💻, I'm driven by a passion for technology and a constant desire to learn and grow 💫. I'm eager to collaborate with others and contribute to innovative projects 🤝.
 
 > _keep going, keep growing!_ 🌱
 
@@ -8,15 +8,22 @@ As a software developer 💻, I'm driven by a passion for technology and a const
 
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,nextjs,webpack,vite,bootstrap,tailwindcss,vercel,netlify,heroku,figma,nodejs,express,nest,sequelize,prisma,go,python,php,mysql,postgresql,mongodb,redis,firebase,postman,rabbitmq,docker,git,github,aws,selenium,jenkins,prometheus,grafana,bash,linux)
 
-<!--
 ## 🏹 Strikes
 
 ![Strikes](https://github-readme-streak-stats.herokuapp.com/?user=IlhamLamp&theme=ayu-mirage&hide_border=true)
- -->
 
 ## 🌠 Top Langs
 
-[![Top Langs](https://github-readme-stats-eight-sand-59.vercel.app/api/top-langs/?username=IlhamLamp&layout=compact)](https://github.com/IlhamLamp/github-readme-stats)
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img 
+    src="https://github-readme-stats-eight-sand-59.vercel.app/api?username=IlhamLamp&show_icons=true" 
+    style="width: 48%;"
+  />
+  <img 
+    src="https://github-readme-stats-eight-sand-59.vercel.app/api/top-langs/?username=IlhamLamp&layout=compact" 
+    style="width: 48%;"
+  />
+</div>
 
 ## 🤝 Social
 
