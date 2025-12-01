@@ -48,8 +48,8 @@ As a DevOps Engineer 💻, I'm driven by a passion for technology and a constant
 
 <div align="center">
 
-**ありがとうございます**
-Thank you
+**ありがとうございます** </br>
+"Thank you"
 
 <img src="https://i.pinimg.com/originals/6b/3a/7d/6b3a7d6e4c37515c657381f712ab76c0.gif" width="auto"/>
 
